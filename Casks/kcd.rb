@@ -1,8 +1,8 @@
 cask 'kcd' do
-  version '1.7-beta10'
+  version '1.7-beta14'
   sha256 :no_check
 
-  url "http://jaist.dl.osdn.jp/kcd/66260/KCD-1.7b10-b9478e7.zip"
+  url "http://jaist.dl.osdn.jp/kcd/66568/KCD-1.7b14-c782333.zip"
   name '艦娘は今日も元気です。'
   homepage 'https://osdn.jp/projects/kcd/'
   license :bsd
